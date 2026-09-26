@@ -260,9 +260,10 @@ nav a:hover {
     z-index: 100;
 }
 
-.whatsapp-float svg {
-    width: 28px;
-    height: 28px;
+.whatsapp-icon {
+    width: 30px;
+    height: 30px;
+    display: block;
     fill: #fff;
 }
 
